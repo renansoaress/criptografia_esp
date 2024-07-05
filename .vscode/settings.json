@@ -1,0 +1,18 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "files.associations": {
+    "inttypes.h": "c",
+    "task.h": "c",
+    "aes.h": "c",
+    "esp_aes.h": "c",
+    "stdio.h": "c",
+    "sha1.h": "c"
+  },
+  "idf.port": "/dev/ttyACM0",
+  "idf.flashType": "UART",
+  "editor.formatOnSave": true,
+}
